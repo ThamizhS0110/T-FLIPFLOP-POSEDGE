@@ -28,7 +28,24 @@ From the above characteristic table, we can directly write the next state equati
 
 **Procedure**
 
-/* write all the steps invloved */
+Open Quartus Prime software and create a new project.
+
+Write the Verilog code for the T flip-flop.
+
+Compile the project to ensure there are no syntax errors.
+
+Generate the RTL (Register Transfer Level) schematic to verify circuit connections.
+
+Create a testbench to simulate the functionality of the T flip-flop.
+
+Apply different test cases for T input.
+
+Verify the state transitions based on the characteristic table.
+
+Generate timing diagrams to observe state changes.
+
+Validate the simulation results against the functional table.
+
 
 **PROGRAM**
 
@@ -43,3 +60,10 @@ From the above characteristic table, we can directly write the next state equati
 ![wave](https://github.com/user-attachments/assets/fb2de8b0-5fae-4433-9a5e-0f141782a31b)
 
 **RESULTS**
+
+
+
+
+
+The T flip-flop was successfully implemented in Verilog, and its functionality was validated using the characteristic table and timing diagrams. The results confirm correct toggling and holding behavior based on the input.
+
